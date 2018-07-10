@@ -105,8 +105,6 @@ Találkozási pont, barátokkal, barátnőkkel beülhettek egy frissen őrölt k
         <p>
             Ha pár nap múlva újabb ötleted támad, bátran írd meg nekünk, mi örömmel fogadjuk. 
         </p>
-       
-         
         
     </div>
 -->
