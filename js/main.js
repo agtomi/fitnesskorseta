@@ -1,6 +1,4 @@
 $(window).load(function() {
-    
-    // initialize of labels
     $('.labels a#label1').fadeIn(100).effect('bounce', { times:3 }, 300, function() {
         $('.labels a#label2').fadeIn(100).effect('bounce', { times:3 }, 300, function() {
             $('.labels a#label3').fadeIn(100).effect('bounce', { times:3 }, 300, function() {
